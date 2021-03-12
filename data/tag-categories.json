@@ -1,0 +1,798 @@
+[
+  {
+    "Tag": "ASMR",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Attention",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Avatars",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Biofeedback",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Biometrics",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Body Ownership",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Consciousness",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Consciousness Hacking",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Electric Stimulation",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Embodied Cognition",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Embodiment",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Eye Tracking",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Facial Capture",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Fashion",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Gestures",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Hand Tracking",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Haptics",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Identity",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Immersion",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Locomotion",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Meaning",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Meditation",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Memory",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Neuroscience",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Perception",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Perspective",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Presence",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Privacy",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Psychology",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Smell",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Spatial Audio",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Time",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Touch",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Transhumanism",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Uncanny Valley",
+    "Category": "[1]-Self-Biometric-Data-Identity"
+  },
+  {
+    "Tag": "Advertising",
+    "Category": "[2]-Resources-Money-Values"
+  },
+  {
+    "Tag": "Cryptocurrency",
+    "Category": "[2]-Resources-Money-Values"
+  },
+  {
+    "Tag": "Distribution",
+    "Category": "[2]-Resources-Money-Values"
+  },
+  {
+    "Tag": "ECommerce",
+    "Category": "[2]-Resources-Money-Values"
+  },
+  {
+    "Tag": "Economics",
+    "Category": "[2]-Resources-Money-Values"
+  },
+  {
+    "Tag": "Funding",
+    "Category": "[2]-Resources-Money-Values"
+  },
+  {
+    "Tag": "GPU",
+    "Category": "[2]-Resources-Money-Values"
+  },
+  {
+    "Tag": "Market",
+    "Category": "[2]-Resources-Money-Values"
+  },
+  {
+    "Tag": "Marketing",
+    "Category": "[2]-Resources-Money-Values"
+  },
+  {
+    "Tag": "Surveillance",
+    "Category": "[2]-Resources-Money-Values"
+  },
+  {
+    "Tag": "3D Modeling",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "3D printing",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "3DUI",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Analytics",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "AR",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "BCI",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Cloud",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Communication",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Conversational Interface",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Data Visualization",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Dome",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Education",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Full-Body Capture",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Full-Body Tracking",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Game Engine",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Graphics",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Input",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "IoT",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Journalism",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Keyboard",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Language",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Lightfields",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Livestreaming",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Mixed Reality",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Mobile AR",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Mobile VR",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Optimization",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "PC",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Peripheral",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Poetry",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Screensharing",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Technology",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Telepresence",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "WebXR",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Wireless",
+    "Category": "[3]-Early-Education-Communication"
+  },
+  {
+    "Tag": "Architecture",
+    "Category": "[4]-Home-&-Family-Private-Property-Earth"
+  },
+  {
+    "Tag": "Decentralization",
+    "Category": "[4]-Home-&-Family-Private-Property-Earth"
+  },
+  {
+    "Tag": "Geolocation",
+    "Category": "[4]-Home-&-Family-Private-Property-Earth"
+  },
+  {
+    "Tag": "History",
+    "Category": "[4]-Home-&-Family-Private-Property-Earth"
+  },
+  {
+    "Tag": "Mapping",
+    "Category": "[4]-Home-&-Family-Private-Property-Earth"
+  },
+  {
+    "Tag": "Real Estate",
+    "Category": "[4]-Home-&-Family-Private-Property-Earth"
+  },
+  {
+    "Tag": "Room-Scale",
+    "Category": "[4]-Home-&-Family-Private-Property-Earth"
+  },
+  {
+    "Tag": "Scale",
+    "Category": "[4]-Home-&-Family-Private-Property-Earth"
+  },
+  {
+    "Tag": "Sustainability",
+    "Category": "[4]-Home-&-Family-Private-Property-Earth"
+  },
+  {
+    "Tag": "360 Video",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Agency",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Animation",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Art",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Asymmetric Gameplay",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Creation Tools",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Dance",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Demo",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Documentary",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Entertainment",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "eSports",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Exhibition",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Experience",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Filmmaking",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "First-Person Shooter",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Flimmaking",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Gaming",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Improv",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "LBE",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Live",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Live-Action Role Play",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Movies",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Museums",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Music",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Mythology",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Performance",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Puzzle",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Sculpting",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Sex",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Sports",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Storytelling",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Theater",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "User Generated Content",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Volumetric Capture",
+    "Category": "[5]-Entertainment-Hobbies-Sex"
+  },
+  {
+    "Tag": "Anxiety",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "Diagnosis",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "Exercise",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "Exposure Therapy",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "Hygiene",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "Lazy Eye",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "Medical",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "Motion sickness",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "Pain Management",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "Phobia",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "Rehabilitation",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "Trauma",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "Trauma",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "Wellness",
+    "Category": "[6]-Medical-Health"
+  },
+  {
+    "Tag": "AI",
+    "Category": "[7]-Other-Partnerships"
+  },
+  {
+    "Tag": "Empathy",
+    "Category": "[7]-Other-Partnerships"
+  },
+  {
+    "Tag": "Harrassment",
+    "Category": "[7]-Other-Partnerships"
+  },
+  {
+    "Tag": "Intimacy",
+    "Category": "[7]-Other-Partnerships"
+  },
+  {
+    "Tag": "Partnership",
+    "Category": "[7]-Other-Partnerships"
+  },
+  {
+    "Tag": "Relationships",
+    "Category": "[7]-Other-Partnerships"
+  },
+  {
+    "Tag": "Robots",
+    "Category": "[7]-Other-Partnerships"
+  },
+  {
+    "Tag": "Safety",
+    "Category": "[7]-Other-Partnerships"
+  },
+  {
+    "Tag": "Virtual Beings",
+    "Category": "[7]-Other-Partnerships"
+  },
+  {
+    "Tag": "Death",
+    "Category": "[8]-Death"
+  },
+  {
+    "Tag": "Grief",
+    "Category": "[8]-Death"
+  },
+  {
+    "Tag": "Horror",
+    "Category": "[8]-Death"
+  },
+  {
+    "Tag": "Violence",
+    "Category": "[8]-Death"
+  },
+  {
+    "Tag": "War",
+    "Category": "[8]-Death"
+  },
+  {
+    "Tag": "Analysis",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Astronomy",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Awe",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Context",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Design",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Epistemology",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Ethics",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Feminism",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Free Speech",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Law",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Math",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Open",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Open Standards",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Paradigm Shift",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Philosophy",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Politics",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Psychedelics",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Research",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Scale",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Sci-Fi",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Science",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Simulation Theory",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Speculative Design",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Sytlized",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Testing",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Tour",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Training",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "UX",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "World Building",
+    "Category": "[9]-Philosophy-Higher-Education-Law"
+  },
+  {
+    "Tag": "Aerospace",
+    "Category": "[10]-Career-Government-Institutions"
+  },
+  {
+    "Tag": "Enterprise",
+    "Category": "[10]-Career-Government-Institutions"
+  },
+  {
+    "Tag": "Governance",
+    "Category": "[10]-Career-Government-Institutions"
+  },
+  {
+    "Tag": "Military",
+    "Category": "[10]-Career-Government-Institutions"
+  },
+  {
+    "Tag": "Productivity",
+    "Category": "[10]-Career-Government-Institutions"
+  },
+  {
+    "Tag": "China",
+    "Category": "[11]-Friends-Community-Collective-Culture"
+  },
+  {
+    "Tag": "Community",
+    "Category": "[11]-Friends-Community-Collective-Culture"
+  },
+  {
+    "Tag": "Conference",
+    "Category": "[11]-Friends-Community-Collective-Culture"
+  },
+  {
+    "Tag": "Culture",
+    "Category": "[11]-Friends-Community-Collective-Culture"
+  },
+  {
+    "Tag": "Developer",
+    "Category": "[11]-Friends-Community-Collective-Culture"
+  },
+  {
+    "Tag": "DevRel",
+    "Category": "[11]-Friends-Community-Collective-Culture"
+  },
+  {
+    "Tag": "Diversity",
+    "Category": "[11]-Friends-Community-Collective-Culture"
+  },
+  {
+    "Tag": "Gamejam",
+    "Category": "[11]-Friends-Community-Collective-Culture"
+  },
+  {
+    "Tag": "Meetup",
+    "Category": "[11]-Friends-Community-Collective-Culture"
+  },
+  {
+    "Tag": "Metaverse",
+    "Category": "[11]-Friends-Community-Collective-Culture"
+  },
+  {
+    "Tag": "Social",
+    "Category": "[11]-Friends-Community-Collective-Culture"
+  },
+  {
+    "Tag": "Social Change",
+    "Category": "[11]-Friends-Community-Collective-Culture"
+  },
+  {
+    "Tag": "Accessibility",
+    "Category": "[12]-Hidden-Exiled-Accessibility"
+  },
+  {
+    "Tag": "Prison",
+    "Category": "[12]-Hidden-Exiled-Accessibility"
+  }
+]
