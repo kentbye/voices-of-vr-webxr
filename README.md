@@ -11,6 +11,8 @@ A collaboration of WebXR developers who are prototyping and experimenting with t
 * Experiment with how virtual architecture that is authored and designed can be melded with emergent architecture from a variety of network visualization tools.
 
 ## TODO
+* Figure out best practices for how to structure this GitHub repo in order to facilitate collaboration.
+* Should there be a section of meeting notes to help document the experimentation process?
 * Finish tagging the Voices of VR episodes and clean up the data
 * Migrate Voices of VR 2D website from Wordpress to Drupal
 * Automate the production of the JSON files
